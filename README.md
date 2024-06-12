@@ -9,6 +9,8 @@ Therefore, effective burr management was possible by identifying and monitoring 
 
 ## Practical Applications
 - Use within other processes.
+<br>
 Can be used in other processes in cases where burrs occur.
+<br/>
 - Use in fields that require image classification.
 Can be used to segment and understand the characteristics of objects to extract features within the image.
