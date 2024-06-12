@@ -6,3 +6,9 @@ This has a negative impact on the bar's process, including failures in subsequen
 ## Summary
 Existing grades based on burr removal difficulty are somewhat subjective. To improve this, an objective method based on shape was presented.
 Therefore, effective burr management was possible by identifying and monitoring the bar cross-section grade in real time.
+
+## Practical Applications
+- Use within other processes.
+   Can be used in other processes in cases where burrs occur.
+- Use in fields that require image classification.
+   Can be used to segment and understand the characteristics of objects to extract features within the image.
