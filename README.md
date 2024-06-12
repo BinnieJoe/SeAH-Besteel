@@ -13,3 +13,8 @@ Therefore, effective burr management was possible by identifying and monitoring 
 
 - Use in fields that require image classification.
 <br>Can be used to segment and understand the characteristics of objects to extract features within the image.
+
+## Expected Outcomes
+- As the frequency of burrs decreases, customer complaints decrease.
+- Reduced mechanical failure due to burr dislodgement and reduced incidence of musculoskeletal diseases
+- Expected to reduce industrial accident rates
